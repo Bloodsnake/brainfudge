@@ -1,2 +1,4 @@
-A brainfuck interpreter written in Rust
-This was a personal project to learn some Rust
+# Brainfudge
+
+A brainfuck interpreter written in Rust.\
+This is a personal project to learn some Rust.
